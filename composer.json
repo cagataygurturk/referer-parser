@@ -1,5 +1,5 @@
 {
-    "name": "snowplow/referer-parser",
+    "name": "cagataygurturk/referer-parser",
     "description": "Snowplow Refer(r)er parser for PHP",
     "require-dev": {
         "phpunit/phpunit": "3.*",
